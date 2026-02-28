@@ -1,6 +1,6 @@
 from Entidade.entidade import Entidade
 from Vocacao.vocacao import Vocacao
-from Raca,raca import Raca
+from Raca.raca import Raca
 
 class Base_monstro:
     def __init__(self,vida,defesa,ataque,esquiva):
