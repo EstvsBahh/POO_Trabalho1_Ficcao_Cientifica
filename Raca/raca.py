@@ -6,4 +6,5 @@ class Raca:
 
     def aplicar_bonus(self, entidade):
         entidade.vida_maxima += self.bonus_vida
+        entidade.vida_atual += self.bonus_vida
         entidade.esquiva += self.bonus_esquiva
