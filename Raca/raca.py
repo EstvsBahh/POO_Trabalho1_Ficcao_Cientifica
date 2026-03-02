@@ -8,3 +8,9 @@ class Raca:
         entidade.vida_maxima += self.bonus_vida
         entidade.vida_atual += self.bonus_vida
         entidade.esquiva += self.bonus_esquiva
+    
+    def __str__(self):
+        return self.nome
+    
+    humano = Raca("Humano", 10, 5)
+    kree = Raca("Kree", 15, 3)
