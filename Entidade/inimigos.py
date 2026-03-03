@@ -1,1 +1,3 @@
-kjhkhjogit 
+Facil
+Médio
+Difícil
