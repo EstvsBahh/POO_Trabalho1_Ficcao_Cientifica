@@ -21,3 +21,11 @@ jogador = Base_monstro(
     raca = kree,
     vocacao = atirador
 )
+monstro = {'id': '1', 'facil'{
+    'nome': 'Kree', 'poder': 20, 'esquiva': 10, 'defesa' : 15, 'vida_maxima' : 100, 'vida_atual' : 100
+    },
+{'id': '2','medio'{'nome': 'soberanos', 'poder': 25, 'esquiva': 5, 'defesa': 20, 'vida_maxima': 150, 'vida_atual': 150
+},}
+{'id': '3','dificil'{'nome': 'sociedade perfeita', 'poder': 35, 'esquiva': 15, 'defesa': 25, 'vida_maxima': 250, 'vida_atual': 250
+}}
+    }
