@@ -1,3 +1,0 @@
-Facil
-Médio
-Difícil
