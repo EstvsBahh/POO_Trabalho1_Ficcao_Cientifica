@@ -402,7 +402,7 @@ def loop_guardiao(tela: GerenciadorTela, jogador: Jogador,
     Gerencia a interação com o NPC que bloqueia a saída do cenário.
 
     O jogador pode:
-      - Resolver o enigma (EnigmaNPC)
+      - Resolver o enigma (EnigmaNPC)git add .
       - Pagar o custo (células, vida ou item)
       - Voltar à exploração (e tentar de novo mais tarde)
 
