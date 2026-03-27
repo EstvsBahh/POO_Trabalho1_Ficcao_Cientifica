@@ -394,7 +394,6 @@ def _executar_evento_exploracao(tela: GerenciadorTela, jogador: Jogador,
 
     return "ok"
 
-
 #  Loop de guardião
 
 def loop_guardiao(tela: GerenciadorTela, jogador: Jogador,
